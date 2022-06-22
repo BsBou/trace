@@ -77,9 +77,9 @@ Trace was designed for a desktop experience for admins and organisers, and a mob
 
 Frameworks & libraries used to make Trace
 * [Ruby on Rails](https://rubyonrails.org/)
-* [JavaScript] (https://www.javascript.com/)
-* [CSS & SASS] (https://sass-lang.com/)
-* [Bootstrap] (https://getbootstrap.com/)
+* [JavaScript](https://www.javascript.com/)
+* [CSS & SASS](https://sass-lang.com/)
+* [Bootstrap](https://getbootstrap.com/)
 * [Stimulus](https://stimulus.hotwired.dev/)
 * [Mapbox API](https://docs.mapbox.com/api/overview/)
 * [Open Weather API](https://openweathermap.org/api)
@@ -140,5 +140,7 @@ Made with love by:
   * Check me out on Github https://github.com/BsBou
 * Rebecca Lim
   * Check me out on Github https://github.com/RebeccaL23
+
+<img width="400" alt="Screen Shot 2022-06-22 at 11 44 54 am" src="https://user-images.githubusercontent.com/17685311/175012728-96535632-f308-45f7-a7a7-8c16407d90c2.png">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
